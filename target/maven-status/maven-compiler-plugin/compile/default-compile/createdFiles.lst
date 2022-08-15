@@ -1,0 +1,4 @@
+com\poc\spring_project\domain\ZIPRepo.class
+com\poc\spring_project\ZipCodeApi.class
+com\poc\spring_project\domain\ZipCode.class
+com\poc\spring_project\Startup.class
